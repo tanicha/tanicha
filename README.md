@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Tani 👋
 
-<!--
-**tanicha/tanicha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 My profile consists of projects from the Year Up program as well as the Multiverse program, where I am currently enrolled in as an Apprentice.
+- 🌱 I’m currently learning Kotlin!
+- ⚡ Status: I currently work at Expedia Group as a Software Development Engineer Apprentice.
+- 💬 Projects can be built with any of the following:
+  - Coding languages:
+    - Javascript
+    - Java
+    - Kotlin
+  - Frameworks:
+    - React
+    - Express
+    - Spring
+    - Bootstrap
+    
